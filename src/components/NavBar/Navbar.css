@@ -1,0 +1,78 @@
+.navbar{
+    position: fixed;
+    height: 0;
+    width: 100%;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    background-color:#111;
+  
+}
+
+
+.logo{
+    position: fixed;
+    margin-top: -11px;
+    left: 20px;
+    width: 90px;
+}
+.avatar{
+    position:fixed;
+    margin-top: -11px;
+    right: 20px;
+    width: 30px;
+}
+.text{
+    position: fixed;
+    margin-top: -14px;
+    margin-left: 120px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.text1{
+    position: fixed;
+    margin-top: -10px;
+    margin-left: 220px;
+    font-weight: 100;
+    cursor: pointer;
+   
+
+    
+}
+.text2{
+    position: fixed;
+    margin-top: -10px;
+    margin-left: 320px;
+    font-weight: 100;
+   cursor: pointer;
+
+    
+}
+.text3{
+    position: fixed;
+    margin-top: -10px;
+    margin-left: 400px;
+    font-weight: 100;
+    cursor: pointer;
+   
+
+    
+}
+.text4{
+    position: fixed;
+    margin-top: -10px;
+    margin-left: 520px;
+    font-weight: 100;
+    cursor: pointer;
+
+    
+}
+.search{
+    position:fixed;
+    margin-top: -11px;
+    right: 40px;
+    width: 30px;
+
+}
+
+
